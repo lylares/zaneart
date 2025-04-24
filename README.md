@@ -21,7 +21,7 @@
 
 ## 🖥️ 演示
 
-[Demo链接](#) _(开源后可以添加实际链接)_
+[Demo链接](#) _()
 
 ## 🛠️ 技术栈
 
@@ -41,28 +41,24 @@
 ### 前提条件
 
 - Node.js 16.x 或更高版本
-- npm 或 yarn
+- npm 
 
 ### 安装
 
 1. 克隆仓库
 ```bash
-git clone https://github.com/yourusername/birthday-memory-album.git
+git clone https://github.com/lylares/zaneart.git
 cd birthday-memory-album
 ```
 
 2. 安装依赖
 ```bash
 npm install
-# 或
-yarn install
 ```
 
 3. 启动开发服务器
 ```bash
 npm start
-# 或
-yarn start
 ```
 
 4. 打开浏览器访问 [http://localhost:3000](http://localhost:3000)
@@ -71,8 +67,6 @@ yarn start
 
 ```bash
 npm run build
-# 或
-yarn build
 ```
 
 ## 📂 项目结构
@@ -114,11 +108,10 @@ const audioUrl = '你的音频文件URL';
 
 ## 📝 许可证
 
-MIT © [您的名字]
+MIT © [lylares]
 
 ## 🙏 致谢
 
-- 感谢所有支持这个项目的人
 - 感谢所有使用到的开源库的作者
 
 ## 🤝 贡献
