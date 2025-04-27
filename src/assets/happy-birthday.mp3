@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="googlebot" content="notranslate">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <title>Bensound Music</title>
+    <base href="https://www.bensound.com/" />
+        		<link rel="icon" type="image/png" href="favicon.png" />
+    <link rel="preload" as="font" href="catalog/view/theme/next/webfonts/fa-solid-900.woff2" type="font/woff2" crossorigin="anonymous">
+	<link rel="preload" as="font" href="catalog/view/theme/next/font/nunito-sans-v8-latin-800italic.woff2" type="font/woff2" crossorigin="anonymous">
+	<link rel="preload" as="font" href="catalog/view/theme/next/font/nunito-sans-v8-latin-italic.woff2" type="font/woff2" crossorigin="anonymous">
+	<link rel="preload" as="font" href="catalog/view/theme/next/font/nunito-sans-v6-latin-regular.woff2" type="font/woff2" crossorigin="anonymous">
+	<link rel="preload" as="font" href="catalog/view/theme/next/font/nunito-sans-v6-latin-600.woff2" type="font/woff2" crossorigin="anonymous">
+	<link rel="preload" as="font" href="catalog/view/theme/next/font/nunito-sans-v8-latin-600italic.woff2" type="font/woff2" crossorigin="anonymous">
+	<link rel="preload" as="font" href="catalog/view/theme/next/font/nunito-sans-v6-latin-700.woff2" type="font/woff2" crossorigin="anonymous">
+	    <link rel="preload stylesheet" as="style" href="catalog/view/theme/next/stylesheet/main.css?v=51" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload stylesheet" as="style" href="catalog/view/theme/next/stylesheet/fontawesome.css?v=51" onload="this.onload=null;this.rel='stylesheet'">
+<!--    <script type="text/javascript" defer src="https://cdn.jsdelivr.net/npm/babel-regenerator-runtime@6.5.0/runtime.js"></script>-->
+<!--    <script type="text/javascript" defer nomodule src="https://cdn.jsdelivr.net/npm/promise-polyfill@8/dist/polyfill.min.js"></script>-->
+<!--    <script type="text/javascript" defer nomodule src="https://cdnjs.cloudflare.com/ajax/libs/fetch/2.0.3/fetch.js"></script>-->
+<!--    <script type="text/javascript" defer nomodule src="https://cdn.jsdelivr.net/npm/url-search-params-polyfill@8.1.1/index.min.js"></script>-->
+<!--    <script type="text/javascript" defer nomodule src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/7.12.1/polyfill.min.js"></script>-->
+    <script type="text/javascript" defer src="catalog/view/theme/next/javascript/amplitude.min.js?v=51"></script>
+	<script type="text/javascript" defer src="catalog/view/theme/next/dist/default-home~contact~browse~checkout~login~product~account~header.js?v=51"></script><script type="text/javascript" defer src="catalog/view/theme/next/dist/defaultVendors-checkout~login~header.js?v=51"></script><script type="text/javascript" defer src="catalog/view/theme/next/dist/defaultVendors-home~contact~browse~checkout~login~product~account~header.js?v=51"></script><script type="text/javascript" defer src="catalog/view/theme/next/dist/defaultVendors-home~contact~browse~checkout~login~product~header.js?v=51"></script><script type="text/javascript" defer src="catalog/view/theme/next/dist/header.js?v=51"></script>    <script type="text/javascript" defer src="catalog/view/theme/next/dist/main.js?v=51"></script>
+
+    <script type="text/javascript">
+        window.cdnBaseUrl = 'https://cdn.bensound.com'    </script>
+
+    
+</head>
+<body data-title='' >
+<div id="get-analytics-script" data-url="https://www.bensound.com/index.php?route=account/cookies_management/getAnalyticsScript"></div>
+<div id="header">
+    <nav class="navbar is-black" role="navigation" aria-label="main navigation" >
+        <div class="navbar-brand">
+            <a class="navbar-item" href="/">
+                <img src="catalog/view/theme/next/image/bensound-logo.svg" width="142" height="24" alt="Bensound - Royalty Free Music">
+            </a>
+			<div class="is-flex is-hidden-desktop">
+				<a href="https://www.bensound.com/checkout" id="cart" class="is-flex is-align-items-center pr-4 header-cart is-hidden">
+  <div style="line-height: 17px; position: relative">
+
+        <div class="notification-cart">
+            <span id="nb-cart-item">
+                0            </span>
+        </div>
+        <img alt="shopping cart" src="catalog/view/theme/next/image/cart-white.svg" width="20px" height="20px"/>
+
+  </div>
+</a>				<a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbar">
+					<span aria-hidden="true"></span>
+					<span aria-hidden="true"></span>
+					<span aria-hidden="true"></span>
+				</a>
+			</div>
+        </div>
+        <div id="navbar" class="navbar-menu mobile-padding">
+            <div class="navbar-start navbar-middle">
+				                <!-- Free music link for Desktop -->
+                 <a id="free-music" class="navbar-item is-uppercase is-size-6 is-hidden-touch" href="/free-music-for-videos">
+                     Free music                </a>
+                <!-- Free music link for Mobile -->
+                <a id="free-music" class="navbar-item is-uppercase is-size-5-touch is-hidden-desktop" href="/free-music-for-videos">
+                    Free Music for Videos                </a>
+                                <a class="navbar-item is-uppercase is-size-6 is-size-5-touch" href="https://www.bensound.com/royalty-free-music">
+                    Browse Music                </a>
+                <a class="navbar-item is-uppercase is-size-6 is-size-5-touch" href="https://www.bensound.com/pricing">
+                    Pricing                </a>
+                <div class="navbar-item has-dropdown is-hoverable">
+                    <div class="navbar-link navbar-item is-uppercase is-size-6 is-size-5-touch navbar-link-accordion-mobile">
+                        Help                    </div>
+
+                    <div class="navbar-dropdown is-hidden-mobile py-4">
+                        <a class="navbar-item" href="https://www.bensound.com/faq">
+                            FAQ                        </a>
+						<div class="navbar-divider-container">
+							<hr class="navbar-divider">
+						</div>
+                        <a class="navbar-item" href="https://www.bensound.com/contact">
+                            Contact                        </a>
+                        <div class="navbar-divider-container">
+                            <hr class="navbar-divider">
+                        </div>
+                        <a class="navbar-item" href="https://www.bensound.com/youtube-copyright-notices">
+                            Claim on YouTube                        </a>
+                    </div>
+                </div>
+				                <p class="logreact navbar-item dropdown-account is-uppercase is-size-6 is-size-5-touch is-hidden-desktop"
+                   role="button"
+                   tabindex="0"
+                   data-modal-type="login"
+                >Login</p>
+
+                <p class="logreact navbar-item dropdown-account is-uppercase is-size-6 is-size-5-touch is-hidden-desktop"
+                   role="button"
+                   tabindex="0"
+                   data-modal-type="signup"
+                >Signup</p>
+
+                            </div>
+            <div class="navbar-end is-hidden-touch">
+                                <a href="https://www.bensound.com/checkout" id="cart" class="is-flex is-align-items-center pr-4 header-cart is-hidden">
+  <div style="line-height: 17px; position: relative">
+
+        <div class="notification-cart">
+            <span id="nb-cart-item">
+                0            </span>
+        </div>
+        <img alt="shopping cart" src="catalog/view/theme/next/image/cart-white.svg" width="20px" height="20px"/>
+
+  </div>
+</a>                                <p class="logreact navbar-item dropdown-account">Sign In</p>
+                    <!--<a class="navbar-item dropdown-account" href="https://www.bensound.com/index.php?route=account/edit"></a>-->
+                
+            </div>
+        </div>
+    </nav>
+<div id="notification"></div>
+
+</div>
+
+<!-- Modal Preview Download-->
+<div class="modal" id="modal-preview-download"></div>
+<!-- Modal login signup-->
+<div id="login-modal-links"
+     data-terms-of-use-url="https://www.bensound.com/terms-and-conditions"
+     data-pricing-link="https://www.bensound.com/pricing"></div>
+<div id="login-modal"></div>
+<!-- Modal Youtube Channel Id-->
+<div class="modal " id="modal-youtube-channel-id">
+	<div class="modal-background"></div>
+	<div class="modal-card">
+		<section class="modal-card-body">
+			<button class="modal-close is-large" aria-label="close"></button>
+			<div class="is-flex is-align-items-center" style="margin-bottom: 25px">
+				<div class="megaphone_container">
+					<img src="catalog/view/theme/next/image/megaphone.svg" class="" alt="youtube channel id">
+				</div>
+				<div>
+					<span style="font-size: 30px;font-weight: 700;">Important!</span>
+				</div>
+			</div>
+			<span style="font-size: 18px;" class="has-text-weight-bold mb-3">YouTube Channel ID missing!</span>
+			<p>
+				Please enter your Youtube channel ID to get your videos cleared automatically, and avoid copyright issues.			</p>
+			<div class="is-flex is-justify-content-space-between mt-3">
+				<button class="button btn-enter-channel">Enter Now</button>
+				<button class="button btn-dont-remind">Don't remind me</button>
+			</div>
+		</section>
+	</div>
+</div>
+
+<script type="text/javascript">
+    var googleAuthUrl = 'https://www.bensound.com/index.php?route=account/oauth_google';
+</script>
+<div id="column-left">
+    <div class="box">
+  <div class="box-heading">Categories</div>
+  <div class="box-content">
+    <ul class="box-category">
+            <li>
+                <a href="https://www.bensound.com/listing">All Music Tracks</a>
+                      </li>
+            <li>
+                <a href="https://www.bensound.com/bensound-music" class="active">Bensound Music</a>
+                        <ul>
+                    <li>
+                        <a href="https://www.bensound.com/bensound-music/royalty-free-music"> - All</a>
+                      </li>
+                    <li>
+                        <a href="https://www.bensound.com/bensound-music/acoustic-folk"> - Acoustic / Folk</a>
+                      </li>
+                    <li>
+                        <a href="https://www.bensound.com/bensound-music/cinematic"> - Cinematic</a>
+                      </li>
+                    <li>
+                        <a href="https://www.bensound.com/bensound-music/corporate-pop"> - Corporate / Pop</a>
+                      </li>
+                    <li>
+                        <a href="https://www.bensound.com/bensound-music/electronica"> - Electronica</a>
+                      </li>
+                    <li>
+                        <a href="https://www.bensound.com/bensound-music/funky-groove-replace"> - Urban / Groove</a>
+                      </li>
+                    <li>
+                        <a href="https://www.bensound.com/bensound-music/jazz-replace"> - Jazz</a>
+                      </li>
+                    <li>
+                        <a href="https://www.bensound.com/bensound-music/rock-replace"> - Rock</a>
+                      </li>
+                    <li>
+                        <a href="https://www.bensound.com/bensound-music/world-others"> - World / Others</a>
+                      </li>
+                  </ul>
+              </li>
+          </ul>
+  </div>
+</div>
+  </div>
+ 
+<div id="content">  <div class="breadcrumb">
+        <a href="https://www.bensound.com/">Home</a>
+         &raquo; <a href="https://www.bensound.com/bensound-music">Bensound Music</a>
+      </div>
+  <h1>Bensound Music</h1>
+      <h2>Refine Search</h2>
+  <div class="category-list">
+            <ul>
+                        <li><a href="https://www.bensound.com/bensound-music/royalty-free-music">All</a></li>
+                        <li><a href="https://www.bensound.com/bensound-music/acoustic-folk">Acoustic / Folk</a></li>
+                        <li><a href="https://www.bensound.com/bensound-music/cinematic">Cinematic</a></li>
+                </ul>
+        <ul>
+                        <li><a href="https://www.bensound.com/bensound-music/corporate-pop">Corporate / Pop</a></li>
+                        <li><a href="https://www.bensound.com/bensound-music/electronica">Electronica</a></li>
+                        <li><a href="https://www.bensound.com/bensound-music/funky-groove-replace">Urban / Groove</a></li>
+                </ul>
+        <ul>
+                        <li><a href="https://www.bensound.com/bensound-music/jazz-replace">Jazz</a></li>
+                        <li><a href="https://www.bensound.com/bensound-music/rock-replace">Rock</a></li>
+                        <li><a href="https://www.bensound.com/bensound-music/world-others">World / Others</a></li>
+                </ul>
+          </div>
+        </div>
+<script type="text/javascript"><!--
+function display(view) {
+	if (view == 'list') {
+		$('.product-grid').attr('class', 'product-list');
+		
+		$('.product-list > div').each(function(index, element) {
+			html  = '<div class="right">';
+			html += '  <div class="cart">' + $(element).find('.cart').html() + '</div>';
+			html += '  <div class="wishlist">' + $(element).find('.wishlist').html() + '</div>';
+			html += '  <div class="compare">' + $(element).find('.compare').html() + '</div>';
+			html += '</div>';			
+			
+			html += '<div class="left">';
+			
+			var image = $(element).find('.image').html();
+			
+			if (image != null) { 
+				html += '<div class="image">' + image + '</div>';
+			}
+			
+			var price = $(element).find('.price').html();
+			
+			if (price != null) {
+				html += '<div class="price">' + price  + '</div>';
+			}
+					
+			html += '  <div class="name">' + $(element).find('.name').html() + '</div>';
+			html += '  <div class="description">' + $(element).find('.description').html() + '</div>';
+			
+			var rating = $(element).find('.rating').html();
+			
+			if (rating != null) {
+				html += '<div class="rating">' + rating + '</div>';
+			}
+				
+			html += '</div>';
+						
+			$(element).html(html);
+		});		
+		
+		$('.display').html('<b>Display:</b> List <b>/</b> <a onclick="display(\'grid\');">Grid</a>');
+		
+		$.totalStorage('display', 'list'); 
+	} else {
+		$('.product-list').attr('class', 'product-grid');
+		
+		$('.product-grid > div').each(function(index, element) {
+			html = '';
+			
+			var image = $(element).find('.image').html();
+			
+			if (image != null) {
+				html += '<div class="image">' + image + '</div>';
+			}
+			
+			html += '<div class="name">' + $(element).find('.name').html() + '</div>';
+			html += '<div class="description">' + $(element).find('.description').html() + '</div>';
+			
+			var price = $(element).find('.price').html();
+			
+			if (price != null) {
+				html += '<div class="price">' + price  + '</div>';
+			}
+			
+			var rating = $(element).find('.rating').html();
+			
+			if (rating != null) {
+				html += '<div class="rating">' + rating + '</div>';
+			}
+						
+			html += '<div class="cart">' + $(element).find('.cart').html() + '</div>';
+			html += '<div class="wishlist">' + $(element).find('.wishlist').html() + '</div>';
+			html += '<div class="compare">' + $(element).find('.compare').html() + '</div>';
+			
+			$(element).html(html);
+		});	
+					
+		$('.display').html('<b>Display:</b> <a onclick="display(\'list\');">List</a> <b>/</b> Grid');
+		
+		$.totalStorage('display', 'grid');
+	}
+}
+
+view = $.totalStorage('display');
+
+if (view) {
+	display(view);
+} else {
+	display('list');
+}
+//--></script> 
+<footer class="px-5 pt-5 container mobile-padding mb-5">
+	<div style="flex:1" class="footer-section">
+		<div class="is-flex is-flex-direction-column footer-social-block">
+			<p>Bensound is the best place to find royalty-free music that pops your videos up!</p>
+			<div class="is-flex is-align-items-center mt-2">
+				<a href="https://x.com/Bensound" target="_blank" aria-label="X" rel="noreferrer">
+					<span class="mr-3">
+						 <img src="catalog/view/theme/next/image/X_logo.svg" alt="X">
+					</span>
+				</a>
+				<a href="https://www.facebook.com/bensoundmusic/" target="_blank" aria-label="Facebook" rel="noreferrer">
+					<span style="font-size: 21px; color:#5f5f5f;" class="mr-3">
+						<i class="fab fa-facebook-square"></i>
+					</span>
+				</a>
+				<a href="https://www.instagram.com/bensound/" target="_blank" aria-label="Instagram" rel="noreferrer">
+					<span style="font-size: 21px; color:#5f5f5f;" class="mr-3">
+						<i class="fab fa-instagram"></i>
+					</span>
+				</a>
+				<a href="https://www.youtube.com/bensoundmusic" target="_blank" aria-label="Youtube" rel="noreferrer">
+					<span style="font-size: 21px; color:#5f5f5f;" class="mr-3">
+						<i class="fab fa-youtube"></i>
+					</span>
+				</a>
+			</div>
+		</div>
+			<div class="footer-bensound">
+				<div class="has-text-weight-bold mb-3">Bensound</div>
+				<ul>
+					<li class="mb-2"><a href="https://www.bensound.com/royalty-free-music" class="has-text-black">Royalty Free Music</a></li>
+					<li class="mb-2"><a href="https://www.bensound.com/pricing" class="has-text-black">Pricing / License</a></li>
+					<li class="mb-2"><a href="/free-music-for-videos" class="has-text-black">Free Music for Videos</a></li>
+					<li class="mb-2"><a href="https://www.bensound.com/blog" class="has-text-black">Blog</a></li>
+				</ul>
+			</div>
+			<div class="footer-info">
+				<div class="has-text-weight-bold mb-3">Info</div>
+				<ul>
+					<li class="mb-2"><a href="https://www.bensound.com/privacy-policy" class="has-text-black">Privacy policy</a></li>
+					<li class="mb-2"><a href="https://www.bensound.com/terms-and-conditions" class="has-text-black">Terms of use</a></li>
+					<li class="mb-2"><a href="https://www.bensound.com/legal" class="has-text-black">Legal Notice</a></li>
+					<li class="mb-2"><a href="https://www.bensound.com/artists" class="has-text-black">Become an Artist</a></li>
+				</ul>
+			</div>
+			<div class="footer-popular-searches">
+				<div class="has-text-weight-bold mb-3">Popular searches</div>
+				<ul>
+					<li class="mb-2"><a href="royalty-free-music/cooking" class="has-text-black">Music for cooking videos</a></li><li class="mb-2"><a href="royalty-free-music/vlog" class="has-text-black">Music for vlog</a></li><li class="mb-2"><a href="royalty-free-music/sport-training" class="has-text-black">Music for sport / training</a></li><li class="mb-2"><a href="royalty-free-music/crafting" class="has-text-black">Music for crafting videos</a></li><li class="mb-2"><a href="royalty-free-music/tutorial" class="has-text-black">Tutorial music</a></li><li class="mb-2"><a href="royalty-free-music/video-game" class="has-text-black">Music for video game</a></li><li class="mb-2"><a href="royalty-free-music/wedding" class="has-text-black">Music for wedding</a></li><li class="mb-2"><a href="royalty-free-music/advertising" class="has-text-black">Music for advertising</a></li><li class="mb-2"><a href="royalty-free-music/travel-nature" class="has-text-black">Music for travel video</a></li>				</ul>
+			</div>
+			<div class="footer-support">
+				<div class="has-text-weight-bold mb-3">Support</div>
+				<ul>
+					<li class="mb-2"><a href="https://www.bensound.com/faq" class="has-text-black">FAQ</a></li>
+					<li class="mb-2"><a href="https://www.bensound.com/contact" class="has-text-black">Contact</a></li>
+					<li class="mb-2"><a href="https://www.bensound.com/contact?become-an-ambassador" class="has-text-black">Become an Ambassador</a></li>
+					<li class="mb-2"><a href="https://www.bensound.com/youtube-copyright-notices" class="has-text-black">Claim on YouTube</a></li>
+					<li class="mb-2"><span class="has-text-black cookies-consent-link" style="cursor: pointer">Cookie setting</span></li>
+					<li class="mb-2"><a href="https://www.bensound.com/careers" class="has-text-black">Jobs</a></li>
+				</ul>
+			</div>
+		</div>
+</footer>
+<div class="container is-flex is-flex-direction-column is-align-items-center mobile-padding footer-copyright pb-6">
+	<div class="footer-divider my-4"></div>
+	<p>Bensound’s <a href="https://www.bensound.com/royalty-free-music" title="Bensound’s Royalty Free Music" class="has-text-black has-text-weight-bold">Royalty Free Music </a> - Copyright © 2012-2025</p>
+</div>
