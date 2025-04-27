@@ -21,7 +21,7 @@
 
 ## 🖥️ 演示
 
-[Demo链接](#) _()
+[查看演示效果](https://zaneart.com)
 
 ## 🛠️ 技术栈
 
@@ -48,7 +48,7 @@
 1. 克隆仓库
 ```bash
 git clone https://github.com/lylares/zaneart.git
-cd birthday-memory-album
+cd zaneart
 ```
 
 2. 安装依赖
