@@ -21,7 +21,8 @@
 
 ## 🖥️ 演示
 
-[查看演示效果](https://zaneart.com)
+[带后端演示](https://zaneart.com)
+[不带后端Vercel演示](https://zaneart.com)
 
 ## 🛠️ 技术栈
 
