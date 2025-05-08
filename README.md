@@ -22,7 +22,7 @@
 ## 🖥️ 演示
 
 [带后端演示](https://zaneart.com)
-[不带后端Vercel演示](https://zaneart.com)
+[不带后端Vercel演示](https://vercel.zaneart.com)
 
 ## 🛠️ 技术栈
 
