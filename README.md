@@ -36,13 +36,13 @@
   - [React Intersection Observer](https://github.com/thebuilder/react-intersection-observer)
   - [React Icons](https://react-icons.github.io/react-icons/)
 
-## 🚀 快速开始
-
-### 🚀 快速部署
+## 🚀 快速部署
 
 选择以下任一平台，点击一键部署按钮，即可无服务器快速部署应用：
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flylares%2Fzaneart) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lylares/zaneart)
+
+## 🚀 本地部署
 
 ### 前提条件
 
